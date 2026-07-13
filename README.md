@@ -2,4 +2,4 @@
 
 Binary and multi-class classification of breast cancer using machine learning approaches.
 
-Random Forest algorithm + Model Evaluation
+Random Forest Algorithm + Model Evaluation
